@@ -1,4 +1,4 @@
-# Wellcome to cocoa.lt
+# Welcome to cocoa.lt
 This group is for Apple iOS and Mac OS X developers. We will hold monthly meetings were we will discuss techniques we use, technologies we love and problems we face.
 
 ### Resources:
