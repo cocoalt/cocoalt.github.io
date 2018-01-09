@@ -1,1 +1,9 @@
 theme: jekyll-theme-minimal
+title: Cocoa.lt homepage
+description: Cocoa.lt homepage
+show_downloads: true
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
