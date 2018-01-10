@@ -1,7 +1,7 @@
-# Welcome to cocoa.lt
-This group is for Apple iOS and Mac OS X developers. We will hold monthly meetings were we will discuss techniques we use, technologies we love and problems we face.
+# Welcome
+Cocoa.lt represents a group for Apple iOS and OS X developers. We are holding monthly meetings were we are discuss techniques we use, technologies we love and problems we face.
 
-### Resources:
+## Resources:
 * Past and upcoming [events](https://www.meetup.com/cocoalt/events/)
 * Past meetup [slides](https://github.com/cocoalt/meetup)
 * Facebook [group](https://www.facebook.com/groups/vilniusios)
