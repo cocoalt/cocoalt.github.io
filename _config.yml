@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: Cocoa.lt homepage
 description: Cocoa.lt homepage
+google_analytics: 'UA-914109-14'
 show_downloads: true
 defaults:
   - scope:
